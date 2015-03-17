@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/costom/ctools"]
+	path = sites/all/modules/costom/ctools
+	url = https://github.com/imax88/ctools.git
